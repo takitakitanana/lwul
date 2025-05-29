@@ -6,7 +6,7 @@ LightWeight Useful Library (lwul)
 A minimal, zero-dependency collection of utility functions for Python.
 """
 
-__version__ = "1.1.1"
+__version__ = "1.1.2"
 
 # ─────────────────────────────────────
 # ANSI Color Wrappers
@@ -124,5 +124,6 @@ if __name__ == "__main__":
 
     # Web
     print(f"status_code('https://example.com') -> {status_code('https://example.com')}")
-    print(f"response_headers('https://example.com') -> {pretty_json(response_headers('https://example.com'))}")
+    print("response_headers('https://example.com') ->")
+    print(pretty_json(response_headers('https://example.com')))
     print()
