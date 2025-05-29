@@ -46,6 +46,8 @@ python lwul.py
     <img src="docs/images/demo.png" alt="Demo" style="width: 75%;">
 </p>
 
+Example screnshot as of `v1.0.0`.
+
 ---
 
 ## Contributing
