@@ -23,10 +23,10 @@ Simple to drop into any project without any setup.
 
 Here are 2 simple options:
 
-1. **Place** `lwul.py` next to your script and import it:
+1. **Place** `lwul.py` next to your script and import what you need:
 
    ```python
-   from lwul import your_function
+   from lwul import function_name
    ```
 
 2. **Copy-paste** the specific function(s) you need directly into your code.
@@ -37,7 +37,7 @@ No setup, no packages, no hassle — just useful code snippets ready to go.
 
 ## Demo
 
-Simply run the script directly to see all testable functions in action:
+Simply run the script directly to see all demo functions in action:
 ```bash
 python lwul.py
 ```
@@ -46,7 +46,7 @@ python lwul.py
     <img src="docs/images/demo.gif" alt="Demo" style="width: 85%;">
 </p>
 
-Example gif as of `v1.1.1`.
+Example gif for `v1.1.1`.
 
 ---
 
