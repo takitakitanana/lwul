@@ -23,15 +23,15 @@ Simple to drop into any project without any setup.
 
 Here are 2 simple options:
 
-1. **Copy `lwul.py` into your project**  
-   Place `lwul.py` next to your script and import it:
+1. **Place** `lwul.py` next to your script and import it:
+
    ```python
    from lwul import your_function
    ```
 
 2. **Copy-paste** the specific function(s) you need directly into your code.
 
-No setup, no packages, no hassle — just useful code ready to go.
+No setup, no packages, no hassle — just useful code snippets ready to go.
 
 ---
 
