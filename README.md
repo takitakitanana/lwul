@@ -43,10 +43,10 @@ python lwul.py
 ```
 
 <p align="center">
-    <img src="docs/images/demo.png" alt="Demo" style="width: 75%;">
+    <img src="docs/images/demo.gif" alt="Demo" style="width: 85%;">
 </p>
 
-Example screnshot as of `v1.0.0`.
+Example gif as of `v1.1.1`.
 
 ---
 
